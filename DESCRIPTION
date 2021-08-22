@@ -18,3 +18,5 @@ Imports:
     lubridate,
     magrittr,
     readr
+URL: https://github.com/jsjale/pacote
+BugReports: https://github.com/jsjale/pacote/issues

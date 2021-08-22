@@ -1,5 +1,5 @@
 Package: pacote
-Title: Pacote Inicial
+Title: Pacote Inicial Final Final
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "J",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "jj@example.com",
            comment = c(ORCID = "1234-5678-9012-3456"))
-Description: Esse pacote serve como exemplo de criacao de pacotes.
+Description: Esse pacote serve como exemplo de criacao de pacotes no R.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
